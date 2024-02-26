@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PonavljanjePosleKursa1", "PonavljanjePosleKursa1\PonavljanjePosleKursa1.csproj", "{F1A1AE86-C984-4EE8-B678-FAA417F55FD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PonavljanjePosleKursaTest", "PonavljanjePosleKursaTest\PonavljanjePosleKursaTest.csproj", "{628CFC5F-E701-4F7A-87D9-3131A0D3AEAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1A1AE86-C984-4EE8-B678-FAA417F55FD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1A1AE86-C984-4EE8-B678-FAA417F55FD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1A1AE86-C984-4EE8-B678-FAA417F55FD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1A1AE86-C984-4EE8-B678-FAA417F55FD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{628CFC5F-E701-4F7A-87D9-3131A0D3AEAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{628CFC5F-E701-4F7A-87D9-3131A0D3AEAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{628CFC5F-E701-4F7A-87D9-3131A0D3AEAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{628CFC5F-E701-4F7A-87D9-3131A0D3AEAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04FC34F8-36EF-4EEC-95FF-5F27908646B1}
+	EndGlobalSection
+EndGlobal

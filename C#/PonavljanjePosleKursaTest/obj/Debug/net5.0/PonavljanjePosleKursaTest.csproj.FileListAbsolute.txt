@@ -1,0 +1,5 @@
+C:\Users\marko\OneDrive\Desktop\PonavljanjePosleKursa1\C#\PonavljanjePosleKursaTest\obj\Debug\net5.0\PonavljanjePosleKursaTest.csproj.AssemblyReference.cache
+C:\Users\marko\OneDrive\Desktop\PonavljanjePosleKursa1\C#\PonavljanjePosleKursaTest\obj\Debug\net5.0\PonavljanjePosleKursaTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marko\OneDrive\Desktop\PonavljanjePosleKursa1\C#\PonavljanjePosleKursaTest\obj\Debug\net5.0\PonavljanjePosleKursaTest.AssemblyInfoInputs.cache
+C:\Users\marko\OneDrive\Desktop\PonavljanjePosleKursa1\C#\PonavljanjePosleKursaTest\obj\Debug\net5.0\PonavljanjePosleKursaTest.AssemblyInfo.cs
+C:\Users\marko\OneDrive\Desktop\PonavljanjePosleKursa1\C#\PonavljanjePosleKursaTest\obj\Debug\net5.0\PonavljanjePosleKursaTest.csproj.CoreCompileInputs.cache
